@@ -1,0 +1,11 @@
+name: d4_dsv
+version: 1.0.0
+description: A parser and formatter for delimiter-separated values, such as CSV and TSV.
+repository: https://github.com/luizbarboza/d4_dsv
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^2.1.1
+  test: ^1.24.5
